@@ -184,6 +184,81 @@ Compare 2022 vs 2023
 
 Products with highest revenue drop
 
+  19.final task 
+store procedure 
+create a function as soon as the product is sold the  same quantity should reduced from inventory table
+after adding any  sales records it should update in the inventory table based on the prodcut and qty purchased 
+
+
+order_id,
+order_date,
+customer_id,
+seller_id ,
+order_item_id,
+product_id,
+quantity,
+```
+CREATE OR REPLACE PROCEDURE add_sales
+(
+    p_order_id INT,
+    p_customer_id INT,
+    p_seller_id INT,
+    p_order_item_id INT,
+    p_product_id INT,
+    p_quantity INT
+)
+LANGUAGE plpgsql
+AS $$
+DECLARE
+    v_count INT;
+    v_price FLOAT;
+    v_product VARCHAR(50);
+BEGIN
+    -- Fetch product price and name
+    SELECT price, product_name
+    INTO v_price, v_product
+    FROM products
+    WHERE product_id = p_product_id;
+
+    -- Check stock availability
+    SELECT COUNT(*)
+    INTO v_count
+    FROM inventory
+    WHERE product_id = p_product_id
+      AND stock >= p_quantity;
+
+    IF v_count > 0 THEN
+
+        -- Insert into orders table
+        INSERT INTO orders (order_id, order_date, customer_id, seller_id)
+        VALUES (p_order_id, CURRENT_DATE, p_customer_id, p_seller_id);
+
+        -- Insert into order_items table
+        INSERT INTO order_items
+        (order_item_id, order_id, product_id, quantity, price_per_unit, total_sales)
+        VALUES
+        (p_order_item_id, p_order_id, p_product_id,
+         p_quantity, v_price, v_price * p_quantity);
+
+        -- Update inventory
+        UPDATE inventory
+        SET stock = stock - p_quantity
+        WHERE product_id = p_product_id;
+
+        RAISE NOTICE
+        'Thank you! Product % sold successfully. Inventory updated.',
+        v_product;
+
+    ELSE
+        RAISE NOTICE
+        'Sorry! Product % is not available in required quantity.',
+        v_product;
+    END IF;
+
+END;
+$$;
+```
+
 ⚙️ Stored Procedure: Inventory Auto-Update
 🔹 Use Case
 
