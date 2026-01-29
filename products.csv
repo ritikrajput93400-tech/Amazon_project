@@ -1,0 +1,767 @@
+product_id,product_name,price,cogs,category_id
+1,HP Laptop Variant 45,4366.61,1324.72,1
+2,Saree Variant 48,2397.86,1626.19,2
+3,Water Bottle Variant 25,682.52,390.24,3
+4,Cat Food Variant 28,570.58,365.78,4
+5,Board Game Variant 36,1185.37,774.34,5
+6,Football Variant 33,995.72,579.55,6
+7,Apple MacBook Variant 28,4661.05,2534.89,1
+8,Saree Variant 14,1576.92,523.26,2
+9,Water Bottle Variant 23,3927.91,1261.22,3
+10,Pet Shampoo Variant 38,4528.38,2201.26,4
+11,Board Game Variant 26,1637.24,1096.21,5
+12,Football Variant 40,620.12,328.97,6
+13,Apple iPhone Variant 32,4444.12,1481.38,1
+14,Formal Shirt Variant 1,2456.8,1483.9,2
+15,Vacuum Cleaner Variant 23,1889.24,1026.64,3
+16,Pet Shampoo Variant 33,79.27,36.39,4
+17,Board Game Variant 50,2210.34,714.11,5
+18,Football Variant 5,4341.24,2721.43,6
+19,HP Laptop Variant 24,300.37,152.67,1
+20,Men T-Shirt Variant 38,2902.32,1261.85,2
+21,Vacuum Cleaner Variant 32,2940.37,1420.91,3
+22,Pet Toy Variant 9,3627.99,1420.33,4
+23,Action Figure Variant 2,4521.31,1566.61,5
+24,Badminton Racket Variant 15,2933.68,1220.38,6
+25,Logitech Mouse Variant 47,265.8,165.07,1
+26,Jacket Variant 46,2568.42,1137.17,2
+27,Dinner Set Variant 32,3305.33,1537.12,3
+28,Pet Collar Variant 11,800.18,288.48,4
+29,Remote Car Variant 21,3658.52,2011.91,5
+30,Dumbbells Variant 47,2271.68,1046.57,6
+31,JBL Speaker Variant 29,902.56,568.96,1
+32,Jacket Variant 48,3737.01,1823.83,2
+33,Mixer Grinder Variant 2,3840.73,1281.72,3
+34,Pet Toy Variant 28,2510.81,1195.16,4
+35,Lego Set Variant 39,4793.99,1705.45,5
+36,Football Variant 33,3729.8,2513.1,6
+37,Apple iPad Variant 48,1527.89,996.65,1
+38,Women Jeans Variant 32,61.06,28.93,2
+39,Gas Stove Variant 39,4468.0,3082.19,3
+40,Dog Food Variant 46,3871.95,2496.5,4
+41,Lego Set Variant 39,594.59,230.37,5
+42,Cricket Bat Variant 17,2371.59,1382.06,6
+43,Apple AirPods Variant 16,1421.97,678.96,1
+44,Casual Shirt Variant 20,825.95,404.32,2
+45,Vacuum Cleaner Variant 23,2549.42,1406.86,3
+46,Dog Food Variant 44,2457.9,1090.03,4
+47,Remote Car Variant 11,1137.14,784.3,5
+48,Dumbbells Variant 27,3873.92,1349.49,6
+49,Apple AirPods Variant 46,1342.16,806.17,1
+50,Hoodie Variant 46,4251.35,2770.27,2
+51,Gas Stove Variant 2,4885.84,2023.79,3
+52,Pet Shampoo Variant 12,3583.69,2059.2,4
+53,Lego Set Variant 6,4544.6,2911.79,5
+54,Cricket Bat Variant 46,1139.17,501.95,6
+55,Apple AirPods Variant 46,4266.3,1797.68,1
+56,Formal Shirt Variant 44,3904.18,1562.42,2
+57,Gas Stove Variant 15,3591.6,1834.15,3
+58,Pet Toy Variant 14,4401.09,2666.03,4
+59,Remote Car Variant 50,257.14,85.49,5
+60,Treadmill Variant 28,2839.06,1434.02,6
+61,Apple MacBook Variant 43,3747.57,1734.49,1
+62,Men T-Shirt Variant 37,4395.26,2344.98,2
+63,Pressure Cooker Variant 22,2670.06,1056.61,3
+64,Pet Shampoo Variant 46,810.39,351.98,4
+65,Remote Car Variant 12,1197.07,758.44,5
+66,Badminton Racket Variant 8,4882.65,2667.15,6
+67,Dell Monitor Variant 27,2863.17,1624.65,1
+68,Women Jeans Variant 17,3054.67,2007.99,2
+69,Gas Stove Variant 25,4075.21,1617.61,3
+70,Cat Food Variant 18,2671.12,1616.82,4
+71,Puzzle Variant 20,210.81,68.99,5
+72,Cricket Bat Variant 10,2946.8,1840.21,6
+73,Apple AirPods Variant 10,3560.25,2352.63,1
+74,Saree Variant 29,3377.59,2269.65,2
+75,Vacuum Cleaner Variant 49,3827.02,2068.15,3
+76,Pet Toy Variant 25,252.97,82.09,4
+77,Board Game Variant 41,592.19,241.12,5
+78,Dumbbells Variant 44,4228.05,1546.97,6
+79,Logitech Mouse Variant 50,1717.27,1010.86,1
+80,Men T-Shirt Variant 42,63.22,39.85,2
+81,Pressure Cooker Variant 3,1571.53,629.95,3
+82,Pet Toy Variant 18,207.99,129.95,4
+83,Remote Car Variant 10,3886.5,1319.58,5
+84,Dumbbells Variant 22,1994.87,1091.86,6
+85,Logitech Mouse Variant 40,4350.83,2710.65,1
+86,Formal Shirt Variant 16,4298.16,2082.84,2
+87,Vacuum Cleaner Variant 22,965.88,381.61,3
+88,Pet Collar Variant 15,3316.11,1834.13,4
+89,Board Game Variant 1,567.66,218.46,5
+90,Badminton Racket Variant 33,2531.09,858.66,6
+91,Apple iPad Variant 30,2484.55,748.26,1
+92,Jacket Variant 18,1483.49,821.07,2
+93,Water Bottle Variant 39,1024.89,547.18,3
+94,Dog Food Variant 28,457.83,298.35,4
+95,Action Figure Variant 43,4211.3,1996.96,5
+96,Football Variant 21,130.44,88.22,6
+97,Apple iPhone Variant 15,4899.46,2286.73,1
+98,Jacket Variant 10,3863.08,1345.8,2
+99,Water Bottle Variant 19,1312.0,736.18,3
+100,Cat Food Variant 30,1172.53,753.4,4
+101,Remote Car Variant 15,3914.56,1402.59,5
+102,Treadmill Variant 45,120.1,58.94,6
+103,JBL Speaker Variant 44,4086.86,1602.71,1
+104,Jacket Variant 4,771.11,470.09,2
+105,Water Bottle Variant 28,1461.39,884.43,3
+106,Pet Collar Variant 14,3171.17,1752.76,4
+107,Remote Car Variant 5,725.23,433.77,5
+108,Dumbbells Variant 26,4031.46,1365.63,6
+109,JBL Speaker Variant 40,3891.31,2451.35,1
+110,Hoodie Variant 33,2781.38,1872.95,2
+111,Pressure Cooker Variant 43,3908.48,2399.52,3
+112,Dog Food Variant 5,4729.79,2116.73,4
+113,Puzzle Variant 17,972.89,479.71,5
+114,Dumbbells Variant 36,3288.56,1615.99,6
+115,Apple MacBook Variant 23,1533.04,751.39,1
+116,Kurta Variant 14,2090.64,974.02,2
+117,Dinner Set Variant 19,1903.68,1032.22,3
+118,Pet Toy Variant 44,1973.62,950.65,4
+119,Lego Set Variant 47,2117.03,1022.94,5
+120,Cricket Bat Variant 4,571.3,220.07,6
+121,Apple iPhone Variant 40,4713.74,2736.63,1
+122,Casual Shirt Variant 19,2876.98,1094.37,2
+123,Mixer Grinder Variant 25,3493.31,2198.67,3
+124,Pet Toy Variant 36,190.36,85.27,4
+125,Remote Car Variant 14,1131.12,512.86,5
+126,Badminton Racket Variant 7,4370.19,2032.72,6
+127,Apple AirPods Variant 12,3421.83,2008.27,1
+128,Saree Variant 29,2312.98,752.89,2
+129,Gas Stove Variant 32,4320.91,1341.88,3
+130,Pet Shampoo Variant 12,4312.95,1992.74,4
+131,Lego Set Variant 44,4822.19,3340.03,5
+132,Cricket Bat Variant 14,1565.13,611.25,6
+133,Samsung Galaxy Variant 39,3241.57,1331.91,1
+134,Casual Shirt Variant 12,3730.52,1354.82,2
+135,Mixer Grinder Variant 11,4992.26,1659.1,3
+136,Pet Toy Variant 32,3222.28,1140.5,4
+137,Puzzle Variant 39,4363.25,1887.91,5
+138,Badminton Racket Variant 27,1804.79,849.08,6
+139,Samsung Galaxy Variant 23,2198.19,723.39,1
+140,Women Jeans Variant 35,1231.34,858.74,2
+141,Water Bottle Variant 37,4605.35,1988.25,3
+142,Pet Shampoo Variant 18,2024.23,1016.9,4
+143,Board Game Variant 23,3700.12,1631.16,5
+144,Treadmill Variant 46,438.78,189.05,6
+145,Sony Headphones Variant 42,1456.52,929.22,1
+146,Men T-Shirt Variant 23,410.47,128.78,2
+147,Dinner Set Variant 30,2523.2,1058.51,3
+148,Pet Collar Variant 30,1962.64,1236.51,4
+149,Puzzle Variant 36,3009.26,1396.42,5
+150,Football Variant 16,1888.2,1205.41,6
+151,Logitech Mouse Variant 31,4303.51,1556.96,1
+152,Women Jeans Variant 14,148.54,103.54,2
+153,Pressure Cooker Variant 29,1566.97,565.96,3
+154,Pet Toy Variant 19,3998.56,1900.36,4
+155,Action Figure Variant 33,2257.19,1555.22,5
+156,Treadmill Variant 44,763.25,237.65,6
+157,Apple iPhone Variant 27,4100.21,2004.8,1
+158,Hoodie Variant 14,4564.21,2081.38,2
+159,Mixer Grinder Variant 17,808.6,539.77,3
+160,Dog Food Variant 24,2572.25,808.94,4
+161,Remote Car Variant 8,3186.82,1161.53,5
+162,Dumbbells Variant 39,1026.75,586.96,6
+163,Dell Monitor Variant 15,2511.22,1683.39,1
+164,Casual Shirt Variant 2,4512.57,1972.65,2
+165,Mixer Grinder Variant 47,2604.96,1118.34,3
+166,Pet Shampoo Variant 27,2534.15,1467.58,4
+167,Puzzle Variant 7,1140.56,742.81,5
+168,Badminton Racket Variant 44,3481.28,2067.5,6
+169,Apple iPad Variant 41,3157.94,1129.52,1
+170,Kurta Variant 43,947.92,560.0,2
+171,Water Bottle Variant 10,288.18,139.64,3
+172,Dog Food Variant 19,1314.35,415.27,4
+173,Lego Set Variant 44,3966.33,1919.72,5
+174,Cricket Bat Variant 1,1783.14,598.21,6
+175,Samsung Galaxy Variant 2,2424.26,1379.26,1
+176,Casual Shirt Variant 27,1556.5,874.13,2
+177,Dinner Set Variant 47,2904.23,1230.07,3
+178,Cat Food Variant 2,54.95,30.99,4
+179,Lego Set Variant 23,249.39,141.02,5
+180,Badminton Racket Variant 25,4506.9,2069.1,6
+181,Apple MacBook Variant 42,452.2,292.73,1
+182,Jacket Variant 8,4303.48,2969.51,2
+183,Water Bottle Variant 40,4934.94,2065.56,3
+184,Dog Food Variant 42,1542.33,911.16,4
+185,Action Figure Variant 34,2994.89,1716.78,5
+186,Cricket Bat Variant 13,448.85,193.91,6
+187,Apple iPhone Variant 37,4454.69,1582.33,1
+188,Women Jeans Variant 43,4497.3,2001.05,2
+189,Pressure Cooker Variant 38,902.62,628.31,3
+190,Pet Toy Variant 23,1057.4,622.49,4
+191,Remote Car Variant 9,96.26,51.91,5
+192,Football Variant 39,4498.74,1964.52,6
+193,Samsung Galaxy Variant 2,2836.54,1578.23,1
+194,Hoodie Variant 5,3745.46,2463.11,2
+195,Gas Stove Variant 39,4209.51,2636.03,3
+196,Dog Food Variant 40,2369.29,1476.95,4
+197,Lego Set Variant 9,4918.85,1492.45,5
+198,Football Variant 36,2495.0,758.86,6
+199,Apple AirPods Variant 9,2259.17,1143.44,1
+200,Casual Shirt Variant 15,616.68,250.7,2
+201,Mixer Grinder Variant 41,182.52,120.37,3
+202,Pet Shampoo Variant 26,233.55,162.91,4
+203,Puzzle Variant 32,4821.57,2962.56,5
+204,Dumbbells Variant 13,2839.64,1491.05,6
+205,Dell Monitor Variant 29,4179.47,2859.86,1
+206,Hoodie Variant 15,3903.36,2366.9,2
+207,Dinner Set Variant 27,4387.44,2283.44,3
+208,Pet Collar Variant 27,4677.05,1866.26,4
+209,Puzzle Variant 13,4125.41,2504.94,5
+210,Badminton Racket Variant 35,2872.25,1458.77,6
+211,HP Laptop Variant 12,814.19,294.3,1
+212,Saree Variant 45,3223.07,1214.15,2
+213,Gas Stove Variant 48,185.58,101.09,3
+214,Pet Collar Variant 1,3183.21,1883.83,4
+215,Action Figure Variant 33,1401.77,571.28,5
+216,Dumbbells Variant 13,3810.1,1406.17,6
+217,Apple iPad Variant 16,2330.86,1154.62,1
+218,Women Jeans Variant 43,2656.06,1006.06,2
+219,Water Bottle Variant 2,642.89,272.89,3
+220,Pet Shampoo Variant 33,3497.27,1963.03,4
+221,Puzzle Variant 21,3207.73,1721.47,5
+222,Football Variant 6,2218.71,740.75,6
+223,HP Laptop Variant 4,3518.06,2102.62,1
+224,Women Jeans Variant 32,3146.96,2058.06,2
+225,Pressure Cooker Variant 44,4634.45,2085.49,3
+226,Pet Toy Variant 21,1403.84,742.87,4
+227,Puzzle Variant 23,3561.1,1319.42,5
+228,Badminton Racket Variant 48,723.27,314.29,6
+229,JBL Speaker Variant 16,1527.09,969.04,1
+230,Men T-Shirt Variant 33,2009.04,1303.65,2
+231,Water Bottle Variant 45,165.62,105.31,3
+232,Pet Shampoo Variant 15,4576.43,2769.27,4
+233,Board Game Variant 4,466.66,303.17,5
+234,Treadmill Variant 44,2869.55,1136.74,6
+235,HP Laptop Variant 4,2604.89,849.74,1
+236,Men T-Shirt Variant 47,934.96,550.03,2
+237,Gas Stove Variant 49,1810.16,851.09,3
+238,Cat Food Variant 8,4314.13,2471.37,4
+239,Action Figure Variant 49,4242.41,2739.21,5
+240,Dumbbells Variant 42,4559.22,1539.16,6
+241,Logitech Mouse Variant 17,2865.69,1304.94,1
+242,Kurta Variant 17,4367.56,2612.29,2
+243,Water Bottle Variant 32,3226.98,1137.48,3
+244,Pet Shampoo Variant 7,4103.51,2409.42,4
+245,Board Game Variant 16,1685.81,747.48,5
+246,Football Variant 9,503.1,273.06,6
+247,Apple MacBook Variant 1,2167.77,1334.58,1
+248,Kurta Variant 17,4574.33,1543.25,2
+249,Gas Stove Variant 50,1141.29,521.21,3
+250,Pet Collar Variant 25,134.54,90.62,4
+251,Puzzle Variant 37,795.61,546.74,5
+252,Cricket Bat Variant 40,1871.62,569.34,6
+253,Apple MacBook Variant 36,1634.4,709.62,1
+254,Jacket Variant 47,2716.21,971.22,2
+255,Mixer Grinder Variant 3,3920.68,2278.38,3
+256,Cat Food Variant 47,4623.74,2260.5,4
+257,Puzzle Variant 24,2981.07,1846.46,5
+258,Dumbbells Variant 15,2953.66,1698.56,6
+259,JBL Speaker Variant 23,1633.63,963.07,1
+260,Men T-Shirt Variant 1,2498.48,1382.9,2
+261,Gas Stove Variant 37,267.42,142.42,3
+262,Cat Food Variant 37,227.88,97.63,4
+263,Puzzle Variant 31,4839.31,3357.4,5
+264,Cricket Bat Variant 14,3538.06,1964.2,6
+265,Samsung Galaxy Variant 40,4612.99,3092.95,1
+266,Jacket Variant 25,4827.71,1818.52,2
+267,Mixer Grinder Variant 10,3888.36,1880.99,3
+268,Dog Food Variant 46,507.3,170.18,4
+269,Remote Car Variant 47,4414.25,1838.04,5
+270,Cricket Bat Variant 11,4235.56,2225.59,6
+271,Dell Monitor Variant 27,2441.65,733.95,1
+272,Formal Shirt Variant 36,3499.95,2384.56,2
+273,Water Bottle Variant 22,561.42,190.18,3
+274,Pet Collar Variant 1,1261.52,546.88,4
+275,Remote Car Variant 8,1386.05,783.79,5
+276,Football Variant 34,2411.88,1548.03,6
+277,Sony Headphones Variant 6,1540.33,960.84,1
+278,Formal Shirt Variant 9,3855.05,1376.91,2
+279,Pressure Cooker Variant 16,4425.8,1785.9,3
+280,Pet Collar Variant 18,4027.11,2398.27,4
+281,Lego Set Variant 36,1234.76,735.49,5
+282,Treadmill Variant 6,1566.04,667.45,6
+283,HP Laptop Variant 24,2211.24,1129.94,1
+284,Formal Shirt Variant 45,3036.85,1311.23,2
+285,Gas Stove Variant 47,3134.18,1542.79,3
+286,Pet Shampoo Variant 7,1029.19,414.95,4
+287,Puzzle Variant 20,2836.22,1678.81,5
+288,Dumbbells Variant 1,1361.01,544.38,6
+289,HP Laptop Variant 31,4007.9,2414.11,1
+290,Saree Variant 12,224.23,153.48,2
+291,Water Bottle Variant 30,1812.72,907.24,3
+292,Pet Toy Variant 3,3740.37,1922.3,4
+293,Board Game Variant 11,3123.54,1531.97,5
+294,Badminton Racket Variant 6,1215.96,822.4,6
+295,Apple iPad Variant 50,1588.29,550.76,1
+296,Men T-Shirt Variant 39,2938.2,1626.47,2
+297,Mixer Grinder Variant 36,4819.95,2293.25,3
+298,Cat Food Variant 43,4080.29,1868.26,4
+299,Action Figure Variant 34,4564.54,2610.85,5
+300,Treadmill Variant 2,3941.4,2217.22,6
+301,Apple AirPods Variant 24,174.3,69.84,1
+302,Saree Variant 6,3670.77,1221.9,2
+303,Pressure Cooker Variant 23,4233.97,1975.97,3
+304,Pet Shampoo Variant 49,1150.74,743.02,4
+305,Board Game Variant 16,4738.26,1649.63,5
+306,Football Variant 8,4023.15,1660.02,6
+307,JBL Speaker Variant 46,1746.48,620.53,1
+308,Formal Shirt Variant 5,3145.17,1139.46,2
+309,Gas Stove Variant 38,2904.49,1562.32,3
+310,Dog Food Variant 8,828.11,361.81,4
+311,Remote Car Variant 3,283.92,86.11,5
+312,Football Variant 33,421.25,292.76,6
+313,HP Laptop Variant 36,161.03,111.85,1
+314,Hoodie Variant 46,885.38,399.01,2
+315,Water Bottle Variant 34,3919.56,2150.66,3
+316,Pet Shampoo Variant 29,3053.1,952.93,4
+317,Action Figure Variant 44,321.44,105.52,5
+318,Cricket Bat Variant 49,1669.16,761.18,6
+319,Apple AirPods Variant 28,1751.66,1195.07,1
+320,Women Jeans Variant 5,383.49,175.17,2
+321,Mixer Grinder Variant 10,3166.78,1419.12,3
+322,Dog Food Variant 35,3135.99,2021.31,4
+323,Action Figure Variant 40,2096.12,971.46,5
+324,Football Variant 25,567.81,172.09,6
+325,HP Laptop Variant 39,1458.08,500.24,1
+326,Men T-Shirt Variant 20,3711.85,1667.76,2
+327,Dinner Set Variant 50,2131.23,1312.72,3
+328,Pet Collar Variant 50,1731.85,1132.77,4
+329,Board Game Variant 47,798.78,516.42,5
+330,Treadmill Variant 12,4778.66,2944.05,6
+331,Logitech Mouse Variant 17,2918.34,1662.2,1
+332,Casual Shirt Variant 12,4462.01,2323.95,2
+333,Gas Stove Variant 1,63.55,26.66,3
+334,Pet Toy Variant 27,1492.21,556.0,4
+335,Lego Set Variant 46,397.17,184.02,5
+336,Treadmill Variant 2,189.86,110.56,6
+337,Sony Headphones Variant 47,1791.5,766.42,1
+338,Men T-Shirt Variant 8,3667.59,1425.77,2
+339,Water Bottle Variant 43,2604.79,896.84,3
+340,Pet Shampoo Variant 21,1805.08,891.35,4
+341,Lego Set Variant 45,691.16,398.88,5
+342,Dumbbells Variant 46,3692.96,1212.47,6
+343,Apple iPhone Variant 48,4047.94,1285.14,1
+344,Saree Variant 26,4043.68,2455.88,2
+345,Dinner Set Variant 46,2829.4,1536.27,3
+346,Dog Food Variant 13,2587.35,989.69,4
+347,Lego Set Variant 36,1108.13,666.16,5
+348,Treadmill Variant 19,407.01,237.14,6
+349,JBL Speaker Variant 6,4584.04,1482.94,1
+350,Kurta Variant 9,1808.09,602.25,2
+351,Vacuum Cleaner Variant 12,3083.91,2067.95,3
+352,Pet Toy Variant 12,2836.12,1255.34,4
+353,Remote Car Variant 6,453.27,258.99,5
+354,Dumbbells Variant 9,732.5,412.91,6
+355,Logitech Mouse Variant 27,667.86,255.71,1
+356,Kurta Variant 32,3806.77,1982.1,2
+357,Gas Stove Variant 32,3054.09,935.2,3
+358,Pet Collar Variant 35,3809.8,2278.03,4
+359,Action Figure Variant 40,4089.26,2091.01,5
+360,Cricket Bat Variant 30,144.06,64.47,6
+361,Apple iPhone Variant 39,3866.96,1861.36,1
+362,Women Jeans Variant 34,2936.47,2048.65,2
+363,Mixer Grinder Variant 3,706.25,467.38,3
+364,Cat Food Variant 24,1652.76,939.54,4
+365,Lego Set Variant 27,3053.67,1819.69,5
+366,Cricket Bat Variant 29,2726.15,1520.77,6
+367,Apple iPad Variant 8,2029.03,1402.22,1
+368,Saree Variant 19,3736.73,2062.07,2
+369,Pressure Cooker Variant 49,2694.22,848.57,3
+370,Pet Collar Variant 14,3295.53,1430.41,4
+371,Board Game Variant 49,3124.5,1213.18,5
+372,Football Variant 3,2818.96,1368.8,6
+373,JBL Speaker Variant 34,413.51,192.8,1
+374,Hoodie Variant 13,2620.58,1641.7,2
+375,Mixer Grinder Variant 12,4141.33,2455.13,3
+376,Cat Food Variant 24,3363.88,1895.41,4
+377,Lego Set Variant 35,3513.07,1208.92,5
+378,Cricket Bat Variant 15,335.42,173.31,6
+379,HP Laptop Variant 39,4537.62,2265.12,1
+380,Men T-Shirt Variant 1,1175.55,804.65,2
+381,Mixer Grinder Variant 32,2188.98,1265.04,3
+382,Dog Food Variant 37,2271.71,1327.84,4
+383,Remote Car Variant 18,4218.33,2438.61,5
+384,Treadmill Variant 32,2063.72,1231.6,6
+385,Apple AirPods Variant 12,2010.44,1268.68,1
+386,Saree Variant 15,4898.56,2658.86,2
+387,Vacuum Cleaner Variant 23,530.07,191.68,3
+388,Pet Toy Variant 23,1041.2,372.65,4
+389,Board Game Variant 50,1831.41,694.76,5
+390,Football Variant 34,750.68,472.08,6
+391,Sony Headphones Variant 16,1713.14,1111.51,1
+392,Formal Shirt Variant 13,1522.16,843.55,2
+393,Pressure Cooker Variant 48,541.43,285.59,3
+394,Cat Food Variant 13,2966.44,1641.68,4
+395,Lego Set Variant 25,3734.13,1507.6,5
+396,Cricket Bat Variant 10,1532.65,953.54,6
+397,Samsung Galaxy Variant 42,1163.99,625.43,1
+398,Jacket Variant 25,2001.67,943.36,2
+399,Gas Stove Variant 47,4397.71,2725.23,3
+400,Cat Food Variant 17,2760.79,958.3,4
+401,Lego Set Variant 26,2133.65,1297.75,5
+402,Football Variant 34,1306.09,654.29,6
+403,Apple MacBook Variant 34,3699.99,2478.25,1
+404,Women Jeans Variant 1,1167.81,718.17,2
+405,Vacuum Cleaner Variant 31,2252.69,887.6,3
+406,Pet Collar Variant 6,2540.36,1046.46,4
+407,Remote Car Variant 8,470.91,271.27,5
+408,Badminton Racket Variant 3,3256.88,1288.36,6
+409,Apple iPhone Variant 49,2499.18,905.24,1
+410,Formal Shirt Variant 29,4028.2,1779.21,2
+411,Pressure Cooker Variant 49,4004.82,2386.03,3
+412,Pet Toy Variant 6,1187.26,681.13,4
+413,Puzzle Variant 49,2397.82,813.91,5
+414,Dumbbells Variant 43,4489.58,2909.55,6
+415,Samsung Galaxy Variant 13,512.31,273.3,1
+416,Hoodie Variant 5,4938.67,1604.95,2
+417,Dinner Set Variant 13,806.91,545.75,3
+418,Pet Shampoo Variant 9,1257.42,820.19,4
+419,Puzzle Variant 46,313.7,181.65,5
+420,Treadmill Variant 29,109.93,74.91,6
+421,Logitech Mouse Variant 11,1195.66,639.06,1
+422,Kurta Variant 38,1748.64,942.13,2
+423,Gas Stove Variant 38,3372.08,1142.93,3
+424,Pet Toy Variant 29,549.43,201.19,4
+425,Action Figure Variant 25,1372.34,512.62,5
+426,Football Variant 24,283.99,197.08,6
+427,Logitech Mouse Variant 32,3472.88,1711.29,1
+428,Hoodie Variant 14,2995.71,1578.11,2
+429,Dinner Set Variant 33,768.25,233.27,3
+430,Dog Food Variant 16,2338.55,1016.08,4
+431,Board Game Variant 4,2449.83,1401.6,5
+432,Football Variant 50,1577.47,1062.98,6
+433,Dell Monitor Variant 37,3246.49,1001.29,1
+434,Jacket Variant 5,993.53,611.71,2
+435,Water Bottle Variant 46,4865.43,2154.46,3
+436,Pet Toy Variant 17,1240.91,764.92,4
+437,Puzzle Variant 29,4551.8,2458.67,5
+438,Cricket Bat Variant 30,191.76,94.6,6
+439,Apple MacBook Variant 19,1964.6,868.55,1
+440,Formal Shirt Variant 37,2237.27,707.26,2
+441,Pressure Cooker Variant 24,3506.17,1313.66,3
+442,Pet Collar Variant 42,2903.64,1364.76,4
+443,Puzzle Variant 18,959.56,589.3,5
+444,Football Variant 9,4024.84,2180.51,6
+445,Dell Monitor Variant 41,3228.54,2144.27,1
+446,Casual Shirt Variant 35,1542.4,1047.33,2
+447,Pressure Cooker Variant 27,626.54,272.96,3
+448,Pet Toy Variant 47,3750.21,2321.75,4
+449,Puzzle Variant 46,2231.13,1375.0,5
+450,Treadmill Variant 42,2381.43,1385.49,6
+451,Apple MacBook Variant 32,1097.56,470.77,1
+452,Casual Shirt Variant 29,186.84,98.45,2
+453,Pressure Cooker Variant 34,3351.02,1862.81,3
+454,Cat Food Variant 3,2219.44,1435.5,4
+455,Puzzle Variant 40,405.86,138.33,5
+456,Dumbbells Variant 18,765.5,367.83,6
+457,Sony Headphones Variant 15,479.09,258.72,1
+458,Jacket Variant 35,3881.84,2063.7,2
+459,Pressure Cooker Variant 19,4099.79,1413.04,3
+460,Pet Shampoo Variant 39,4190.22,2894.12,4
+461,Remote Car Variant 31,3678.53,2048.08,5
+462,Dumbbells Variant 45,4292.48,2961.72,6
+463,Samsung Galaxy Variant 8,3860.62,2421.09,1
+464,Casual Shirt Variant 45,2408.21,1566.13,2
+465,Vacuum Cleaner Variant 14,2966.08,1616.32,3
+466,Dog Food Variant 25,2730.4,1274.52,4
+467,Lego Set Variant 47,1183.74,675.54,5
+468,Treadmill Variant 31,4011.59,1542.29,6
+469,Samsung Galaxy Variant 50,1432.03,839.41,1
+470,Jacket Variant 17,4904.88,2497.42,2
+471,Water Bottle Variant 25,3965.43,1856.48,3
+472,Cat Food Variant 3,1674.85,599.59,4
+473,Action Figure Variant 30,4441.71,1843.14,5
+474,Cricket Bat Variant 47,3752.74,1618.55,6
+475,Dell Monitor Variant 9,4207.43,2790.61,1
+476,Hoodie Variant 44,605.77,266.28,2
+477,Vacuum Cleaner Variant 15,1416.42,788.03,3
+478,Dog Food Variant 2,2138.91,1107.37,4
+479,Puzzle Variant 19,1233.01,679.38,5
+480,Dumbbells Variant 26,1404.16,438.0,6
+481,Dell Monitor Variant 7,3834.89,1878.11,1
+482,Hoodie Variant 12,2475.74,1242.78,2
+483,Water Bottle Variant 26,4232.53,2710.36,3
+484,Pet Shampoo Variant 21,3913.08,2319.74,4
+485,Action Figure Variant 4,3624.05,2060.03,5
+486,Cricket Bat Variant 31,716.11,220.47,6
+487,Apple iPhone Variant 5,728.92,270.65,1
+488,Women Jeans Variant 27,4507.75,2985.11,2
+489,Dinner Set Variant 34,3289.98,1408.56,3
+490,Pet Collar Variant 12,2574.96,787.34,4
+491,Remote Car Variant 32,2375.86,1093.5,5
+492,Treadmill Variant 37,416.79,285.36,6
+493,Logitech Mouse Variant 37,1448.18,636.97,1
+494,Jacket Variant 37,2450.52,1510.47,2
+495,Water Bottle Variant 25,1412.39,845.95,3
+496,Pet Shampoo Variant 36,4588.57,1438.44,4
+497,Board Game Variant 23,4009.4,2587.17,5
+498,Football Variant 40,633.01,345.14,6
+499,HP Laptop Variant 2,113.6,75.85,1
+500,Hoodie Variant 40,2886.31,1073.75,2
+501,Vacuum Cleaner Variant 30,1802.62,1097.58,3
+502,Pet Collar Variant 47,2285.74,928.87,4
+503,Puzzle Variant 1,1039.68,499.25,5
+504,Football Variant 10,2578.47,1435.22,6
+505,Apple iPhone Variant 42,937.64,630.29,1
+506,Kurta Variant 1,4960.05,2839.69,2
+507,Mixer Grinder Variant 9,2016.26,1041.84,3
+508,Dog Food Variant 17,106.02,61.02,4
+509,Board Game Variant 2,2333.78,1288.35,5
+510,Cricket Bat Variant 16,1731.12,752.28,6
+511,Apple MacBook Variant 2,1015.9,440.08,1
+512,Casual Shirt Variant 50,2484.85,902.02,2
+513,Water Bottle Variant 48,1916.85,796.67,3
+514,Cat Food Variant 44,2054.34,1279.65,4
+515,Remote Car Variant 15,3759.39,1253.4,5
+516,Treadmill Variant 40,1605.7,824.37,6
+517,Samsung Galaxy Variant 50,2654.0,1371.39,1
+518,Saree Variant 12,2331.41,1392.42,2
+519,Pressure Cooker Variant 42,1649.38,723.94,3
+520,Cat Food Variant 48,724.4,338.75,4
+521,Action Figure Variant 26,1084.43,377.83,5
+522,Football Variant 41,896.72,549.5,6
+523,Apple AirPods Variant 18,1473.14,600.49,1
+524,Hoodie Variant 41,2802.3,1362.04,2
+525,Mixer Grinder Variant 42,1239.4,517.51,3
+526,Pet Collar Variant 14,4128.87,1408.98,4
+527,Lego Set Variant 6,2503.52,945.82,5
+528,Treadmill Variant 25,1516.75,740.34,6
+529,Apple iPhone Variant 16,4439.6,2848.19,1
+530,Kurta Variant 18,4209.04,1476.12,2
+531,Vacuum Cleaner Variant 38,1765.62,868.8,3
+532,Dog Food Variant 27,1697.3,661.76,4
+533,Action Figure Variant 16,2593.44,1316.93,5
+534,Cricket Bat Variant 28,4475.51,2027.97,6
+535,JBL Speaker Variant 25,187.97,58.95,1
+536,Jacket Variant 27,65.15,43.56,2
+537,Gas Stove Variant 4,1102.11,449.49,3
+538,Pet Collar Variant 44,4972.55,1987.45,4
+539,Lego Set Variant 27,1819.59,1271.08,5
+540,Badminton Racket Variant 5,2505.94,1656.55,6
+541,Apple MacBook Variant 26,4525.22,3030.5,1
+542,Casual Shirt Variant 23,2967.5,1722.42,2
+543,Mixer Grinder Variant 28,3954.88,2525.56,3
+544,Pet Collar Variant 8,1817.81,1044.71,4
+545,Remote Car Variant 22,4515.89,2804.54,5
+546,Football Variant 35,2072.1,1431.48,6
+547,Samsung Galaxy Variant 49,1019.68,498.54,1
+548,Kurta Variant 19,1227.78,485.1,2
+549,Pressure Cooker Variant 42,809.7,408.54,3
+550,Cat Food Variant 13,917.2,291.59,4
+551,Board Game Variant 11,3382.71,2054.16,5
+552,Cricket Bat Variant 23,4610.48,2258.92,6
+553,Logitech Mouse Variant 5,1725.6,969.65,1
+554,Saree Variant 28,3168.81,2114.84,2
+555,Gas Stove Variant 47,2878.95,1444.02,3
+556,Pet Toy Variant 34,2778.3,837.71,4
+557,Board Game Variant 32,2067.24,830.95,5
+558,Cricket Bat Variant 31,3529.12,1961.34,6
+559,Apple MacBook Variant 8,2206.68,905.51,1
+560,Hoodie Variant 2,2786.45,1285.57,2
+561,Mixer Grinder Variant 41,256.94,132.07,3
+562,Pet Toy Variant 8,2994.21,1264.94,4
+563,Action Figure Variant 45,4627.93,3027.94,5
+564,Dumbbells Variant 3,2304.28,1084.18,6
+565,HP Laptop Variant 17,4697.98,3124.09,1
+566,Formal Shirt Variant 2,1530.29,617.63,2
+567,Mixer Grinder Variant 44,878.32,519.02,3
+568,Pet Toy Variant 26,3179.03,1163.29,4
+569,Puzzle Variant 9,4794.79,2984.5,5
+570,Football Variant 50,4275.67,1469.49,6
+571,Apple MacBook Variant 7,2849.04,1797.56,1
+572,Men T-Shirt Variant 49,1785.91,1082.25,2
+573,Vacuum Cleaner Variant 37,3167.76,2003.53,3
+574,Pet Toy Variant 30,2192.04,898.46,4
+575,Action Figure Variant 9,1023.05,309.2,5
+576,Football Variant 30,4301.22,1781.11,6
+577,Logitech Mouse Variant 28,2854.12,1371.46,1
+578,Kurta Variant 22,3865.14,1455.06,2
+579,Water Bottle Variant 30,4188.65,1952.36,3
+580,Pet Collar Variant 41,305.21,170.19,4
+581,Puzzle Variant 11,3800.34,2043.18,5
+582,Badminton Racket Variant 13,4428.65,1658.49,6
+583,Apple MacBook Variant 17,2329.74,1360.49,1
+584,Saree Variant 32,913.23,393.47,2
+585,Pressure Cooker Variant 10,3870.36,2705.22,3
+586,Dog Food Variant 4,1666.36,546.73,4
+587,Lego Set Variant 38,3785.32,1229.67,5
+588,Cricket Bat Variant 30,2402.15,1141.9,6
+589,HP Laptop Variant 24,4903.99,2247.58,1
+590,Jacket Variant 27,1164.51,431.17,2
+591,Water Bottle Variant 44,3360.04,1886.47,3
+592,Dog Food Variant 14,4520.37,1396.32,4
+593,Puzzle Variant 4,1886.31,1102.97,5
+594,Football Variant 29,2682.26,1292.53,6
+595,HP Laptop Variant 6,3162.58,2120.38,1
+596,Saree Variant 24,1880.05,667.87,2
+597,Vacuum Cleaner Variant 48,2462.66,1127.2,3
+598,Cat Food Variant 50,4782.63,3018.82,4
+599,Remote Car Variant 26,2056.51,1244.92,5
+600,Cricket Bat Variant 28,3972.63,1202.51,6
+601,Apple AirPods Variant 39,2768.93,1557.64,1
+602,Casual Shirt Variant 33,4156.76,2597.96,2
+603,Mixer Grinder Variant 32,1426.01,571.0,3
+604,Cat Food Variant 29,4335.82,2326.75,4
+605,Remote Car Variant 7,2669.46,1577.62,5
+606,Treadmill Variant 46,3862.44,1611.56,6
+607,Dell Monitor Variant 17,1372.81,728.89,1
+608,Kurta Variant 39,969.85,555.08,2
+609,Vacuum Cleaner Variant 28,2928.95,1510.58,3
+610,Pet Shampoo Variant 20,1230.78,620.38,4
+611,Action Figure Variant 10,2263.29,934.32,5
+612,Cricket Bat Variant 25,3515.07,2061.45,6
+613,Apple MacBook Variant 6,3241.05,1597.76,1
+614,Formal Shirt Variant 39,3640.16,1376.3,2
+615,Pressure Cooker Variant 28,2579.5,1159.41,3
+616,Pet Toy Variant 27,1173.7,637.47,4
+617,Lego Set Variant 7,4140.83,2466.91,5
+618,Treadmill Variant 48,103.11,40.05,6
+619,Apple iPhone Variant 24,119.96,65.26,1
+620,Jacket Variant 24,2179.59,1092.24,2
+621,Dinner Set Variant 8,3315.2,1513.56,3
+622,Pet Toy Variant 47,4626.28,1929.63,4
+623,Lego Set Variant 40,1464.89,619.94,5
+624,Dumbbells Variant 24,2910.73,1110.42,6
+625,HP Laptop Variant 48,1494.87,563.72,1
+626,Formal Shirt Variant 13,1462.56,596.14,2
+627,Pressure Cooker Variant 16,4706.38,2426.4,3
+628,Dog Food Variant 37,910.0,391.52,4
+629,Remote Car Variant 20,4141.57,1636.21,5
+630,Football Variant 21,1573.06,772.65,6
+631,Apple MacBook Variant 43,3377.38,1241.88,1
+632,Jacket Variant 14,1007.21,669.53,2
+633,Dinner Set Variant 44,1874.46,987.34,3
+634,Dog Food Variant 14,102.7,52.08,4
+635,Puzzle Variant 16,2925.85,1654.38,5
+636,Badminton Racket Variant 3,2027.09,1123.37,6
+637,Apple AirPods Variant 13,2029.62,1378.57,1
+638,Women Jeans Variant 46,2421.83,1472.95,2
+639,Pressure Cooker Variant 38,3780.38,1760.83,3
+640,Dog Food Variant 42,643.37,305.72,4
+641,Action Figure Variant 13,1498.63,1000.12,5
+642,Badminton Racket Variant 41,131.25,83.78,6
+643,Apple iPad Variant 30,1099.8,402.11,1
+644,Casual Shirt Variant 16,4446.72,1618.2,2
+645,Vacuum Cleaner Variant 46,1891.25,665.97,3
+646,Dog Food Variant 49,235.5,133.42,4
+647,Puzzle Variant 38,2439.8,1367.9,5
+648,Cricket Bat Variant 31,3909.08,1928.32,6
+649,Logitech Mouse Variant 34,457.16,170.33,1
+650,Jacket Variant 24,4916.62,2239.04,2
+651,Pressure Cooker Variant 39,4678.21,3044.69,3
+652,Dog Food Variant 6,2627.34,1547.9,4
+653,Board Game Variant 22,3556.67,1835.51,5
+654,Badminton Racket Variant 24,1469.17,578.19,6
+655,JBL Speaker Variant 39,908.56,467.43,1
+656,Men T-Shirt Variant 34,1803.13,945.02,2
+657,Dinner Set Variant 41,4198.04,1949.52,3
+658,Cat Food Variant 20,1975.72,700.78,4
+659,Lego Set Variant 36,3991.46,2312.36,5
+660,Football Variant 6,1070.39,543.38,6
+661,Apple MacBook Variant 41,312.92,185.36,1
+662,Men T-Shirt Variant 38,4846.34,2992.48,2
+663,Water Bottle Variant 44,3125.82,1740.77,3
+664,Dog Food Variant 29,784.54,364.47,4
+665,Lego Set Variant 8,2626.51,903.07,5
+666,Treadmill Variant 34,3011.29,1791.03,6
+667,Sony Headphones Variant 13,1876.22,865.15,1
+668,Casual Shirt Variant 7,749.75,319.97,2
+669,Gas Stove Variant 31,2894.87,1721.79,3
+670,Pet Collar Variant 23,943.88,500.24,4
+671,Action Figure Variant 30,3961.1,2599.12,5
+672,Treadmill Variant 44,1329.16,605.85,6
+673,Apple iPad Variant 32,2377.84,805.45,1
+674,Jacket Variant 38,666.77,368.79,2
+675,Pressure Cooker Variant 40,2575.93,1027.52,3
+676,Cat Food Variant 33,838.44,427.83,4
+677,Puzzle Variant 8,4770.38,1947.85,5
+678,Dumbbells Variant 26,4444.58,2857.71,6
+679,Sony Headphones Variant 8,561.06,240.84,1
+680,Jacket Variant 13,1808.85,884.63,2
+681,Gas Stove Variant 25,3129.32,1577.77,3
+682,Pet Collar Variant 42,3976.86,2098.35,4
+683,Remote Car Variant 34,1907.02,770.63,5
+684,Badminton Racket Variant 14,2170.84,1518.57,6
+685,Apple MacBook Variant 29,4730.91,2920.32,1
+686,Saree Variant 22,1834.72,996.43,2
+687,Water Bottle Variant 15,3553.37,1431.37,3
+688,Cat Food Variant 38,4745.33,2646.34,4
+689,Action Figure Variant 27,3259.17,1014.08,5
+690,Treadmill Variant 42,596.13,274.84,6
+691,JBL Speaker Variant 29,3351.89,1230.66,1
+692,Jacket Variant 4,371.83,214.7,2
+693,Pressure Cooker Variant 34,477.01,304.51,3
+694,Pet Toy Variant 37,3872.16,1873.21,4
+695,Board Game Variant 34,2453.9,1401.1,5
+696,Football Variant 23,111.31,39.86,6
+697,Apple MacBook Variant 16,4580.52,2262.23,1
+698,Men T-Shirt Variant 28,454.09,293.21,2
+699,Mixer Grinder Variant 27,1025.85,387.01,3
+700,Cat Food Variant 24,4952.89,2979.72,4
+701,Puzzle Variant 32,4809.34,2631.91,5
+702,Dumbbells Variant 15,549.67,382.84,6
+703,Dell Monitor Variant 33,3543.16,2238.17,1
+704,Women Jeans Variant 25,2393.87,1212.22,2
+705,Vacuum Cleaner Variant 47,830.54,493.92,3
+706,Dog Food Variant 12,270.85,156.16,4
+707,Puzzle Variant 43,4572.44,2851.45,5
+708,Cricket Bat Variant 47,1121.02,538.55,6
+709,Sony Headphones Variant 32,77.57,52.57,1
+710,Casual Shirt Variant 41,4473.02,1382.23,2
+711,Mixer Grinder Variant 8,3055.49,1767.36,3
+712,Pet Toy Variant 31,2755.17,1276.36,4
+713,Board Game Variant 8,3698.92,2055.76,5
+714,Cricket Bat Variant 32,1783.53,581.42,6
+715,Sony Headphones Variant 6,1155.92,656.51,1
+716,Men T-Shirt Variant 24,4877.0,2560.58,2
+717,Gas Stove Variant 33,402.64,275.9,3
+718,Cat Food Variant 10,2857.94,1309.5,4
+719,Remote Car Variant 45,3446.74,2384.96,5
+720,Football Variant 8,799.93,308.45,6
+721,HP Laptop Variant 44,1059.93,355.55,1
+722,Jacket Variant 22,2310.79,763.84,2
+723,Mixer Grinder Variant 19,2734.57,1318.98,3
+724,Cat Food Variant 11,3280.33,1786.74,4
+725,Board Game Variant 23,2855.04,1622.64,5
+726,Football Variant 12,203.01,130.49,6
+727,JBL Speaker Variant 8,1993.46,1131.71,1
+728,Saree Variant 2,3854.22,1670.79,2
+729,Mixer Grinder Variant 36,4587.44,1919.6,3
+730,Pet Shampoo Variant 40,976.11,358.99,4
+731,Puzzle Variant 39,4378.86,1439.76,5
+732,Treadmill Variant 43,3965.53,1754.32,6
+733,Samsung Galaxy Variant 24,3295.76,1280.88,1
+734,Kurta Variant 24,3772.33,2449.54,2
+735,Water Bottle Variant 32,785.12,383.51,3
+736,Cat Food Variant 30,3188.23,1740.28,4
+737,Board Game Variant 26,883.12,281.57,5
+738,Cricket Bat Variant 24,4036.61,2182.95,6
+739,Dell Monitor Variant 32,3183.45,1003.61,1
+740,Formal Shirt Variant 28,4252.44,1327.0,2
+741,Gas Stove Variant 30,992.71,473.78,3
+742,Cat Food Variant 48,4879.26,1666.22,4
+743,Puzzle Variant 11,4173.18,1901.43,5
+744,Dumbbells Variant 44,4951.81,3271.82,6
+745,Logitech Mouse Variant 14,250.75,121.44,1
+746,Men T-Shirt Variant 10,2924.63,1336.02,2
+747,Mixer Grinder Variant 34,4458.06,2424.26,3
+748,Pet Shampoo Variant 50,4949.05,2037.3,4
+749,Lego Set Variant 6,1303.66,789.44,5
+750,Treadmill Variant 34,2221.32,1261.26,6
+751,Apple iPhone Variant 38,3664.29,2324.81,1
+752,Women Jeans Variant 5,1146.76,617.46,2
+753,Gas Stove Variant 12,2627.61,1262.59,3
+754,Pet Toy Variant 20,1125.87,701.62,4
+755,Puzzle Variant 20,2041.77,738.3,5
+756,Treadmill Variant 27,724.88,292.49,6
+757,Apple AirPods Variant 50,4591.98,1445.82,1
+758,Casual Shirt Variant 46,4424.1,1745.72,2
+759,Gas Stove Variant 4,4609.53,1745.79,3
+760,Pet Collar Variant 28,2785.74,1728.85,4
+761,Lego Set Variant 25,3426.54,1295.16,5
+762,Badminton Racket Variant 6,3205.07,2178.71,6
+763,Samsung Galaxy Variant 25,384.01,200.08,1
+764,Jacket Variant 43,3394.77,2089.48,2
+765,Mixer Grinder Variant 34,751.1,473.43,3
+766,Pet Shampoo Variant 25,3471.63,1638.68,4
